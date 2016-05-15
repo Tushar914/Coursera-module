@@ -1,0 +1,34 @@
+body {
+	font-size: 16px;
+	background-color: #66ff66;
+}
+
+.navbar {
+	background-color: #99ffcc;
+}
+
+.navbar-brand {
+	font-size: 150%;
+}
+
+#list-items {
+	background-color: #ff9966;
+}
+
+.body-class {
+	margin: 20px;
+	padding: 10px;
+	padding-top: 40px;
+	border: 1px solid black;
+	float: left;
+	background-color: #ff9966;
+	font-size: 18px;
+}
+
+#tall-title {
+	margin-top: -30px;
+	padding-bottom: 20px;
+	padding-top: 0px;
+	font-size: 20px;
+	font-weight: bold;
+}
